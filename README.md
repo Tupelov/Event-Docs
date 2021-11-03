@@ -8,8 +8,8 @@ Atlus uses the pm1/2/3 event format for numerous games ranging from nocturne, to
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="starting-guide.md" %}
+[starting-guide.md](starting-guide.md)
 {% endcontent-ref %}
 
 ## Want to deep dive?

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Starting Guide](starting-guide.md)
 
 ## Type Table Types
 

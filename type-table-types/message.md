@@ -1,5 +1,5 @@
 ---
-description: Holds the .bmd for the event
+description: Holds the text for the event
 ---
 
 # Message
